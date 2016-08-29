@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{864C32D2-12A5-567A-489A-C74166C8DF1B}") = "AirbusHolo_Final", "Assembly-CSharp.csproj", "{89702E30-3FEA-B849-87E1-14DDD77283FE}"
+EndProject
+Project("{864C32D2-12A5-567A-489A-C74166C8DF1B}") = "AirbusHolo_Final", "Assembly-CSharp-Editor.csproj", "{58AE2B7D-1106-8649-426B-33208D289C55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89702E30-3FEA-B849-87E1-14DDD77283FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89702E30-3FEA-B849-87E1-14DDD77283FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89702E30-3FEA-B849-87E1-14DDD77283FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89702E30-3FEA-B849-87E1-14DDD77283FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58AE2B7D-1106-8649-426B-33208D289C55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58AE2B7D-1106-8649-426B-33208D289C55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58AE2B7D-1106-8649-426B-33208D289C55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58AE2B7D-1106-8649-426B-33208D289C55}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
